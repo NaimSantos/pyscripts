@@ -1,2 +1,2 @@
 # pyscripts
-Um repositorio com alguns scripts em pythons
+Um repositório com alguns scripts em python com utilitários diversos relacionados ao edopro
